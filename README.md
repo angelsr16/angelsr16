@@ -4,7 +4,7 @@
 
 
 Typescript | Angular | Node.js | Tailwind | PrimeNG | Unity | C# |  
-Android | Kotlin | Java | Firebase 🔥
+Android | Kotlin | Java | Firebase 🔥  
 💻 Passionate Coder! 
 
 
