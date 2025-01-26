@@ -1,16 +1,14 @@
-# Ángel de Jesús Sánchez Romero | @angelsr16
+### Ángel de Jesús Sánchez Romero | @angelsr16
 
 ---
 
-Ingeniero en Sistemas Computacionales | Front-End Developer
+## Ingeniero en Sistemas Computacionales | Front-End Developer
 
 ---
-
 Typescript | Angular | Node.js | Tailwind | PrimeNG | Unity | C# | Android | Kotlin | Java | Firebase
 
-Sobre mí
-
 ---
+Sobre mí
 
 Cuento con más de 5 años de experiencia en el desarrollo e implementación de una amplia variedad de sistemas y sitios web, así como en la creación de aplicaciones móviles, siempre con un enfoque en la calidad, la innovación y la eficiencia. A lo largo de mi carrera, he tenido la oportunidad de trabajar en proyectos diversos que me han permitido desarrollar un conjunto de habilidades técnicas y una visión integral del proceso de desarrollo.
 
