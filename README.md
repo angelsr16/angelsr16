@@ -2,7 +2,11 @@
 
 ## Ingeniero en Sistemas Computacionales | Front-End Developer
 
-Typescript | Angular | Node.js | Tailwind | PrimeNG | Unity | C# | Android | Kotlin | Java | Firebase
+
+Typescript | Angular | Node.js | Tailwind | PrimeNG | Unity | C# | 
+Android | Kotlin | Java | Firebase 🔥
+💻 Passionate Coder! 
+
 
 ## Sobre mí
 
