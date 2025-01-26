@@ -15,3 +15,6 @@ Cuento con más de 5 años de experiencia en el desarrollo e implementación de 
 
 Además, en mi tiempo libre, me dedico a una de mis grandes pasiones: el desarrollo de videojuegos. Este interés me ha permitido explorar áreas como la programación usando motores gráficos, el diseño de experiencias interactivas y la creación de mundos virtuales, lo que enriquece mi enfoque creativo y técnico en todos los proyectos en los que participo.
 
+### ***Contacto***
+
+📩 <angelsanchezromero09@gmail.com>
