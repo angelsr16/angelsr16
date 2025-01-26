@@ -2,7 +2,7 @@
 
 ---
 
-## Ingeniero en Sistemas Computacionales | Front-End Developer
+### Ingeniero en Sistemas Computacionales | Front-End Developer
 
 ---
 
