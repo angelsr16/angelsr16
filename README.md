@@ -5,6 +5,7 @@
 ## Ingeniero en Sistemas Computacionales | Front-End Developer
 
 ---
+
 Typescript | Angular | Node.js | Tailwind | PrimeNG | Unity | C# | Android | Kotlin | Java | Firebase
 
 ---
