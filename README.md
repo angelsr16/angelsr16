@@ -3,7 +3,7 @@
 ### ***Ingeniero en Sistemas Computacionales | Fullstack Developer***
 
 
-Typescript | Angular 16+ (standalone components) | Node.js | TailwindCSS | PrimeNG | Java | Firebase (Firestore, Authentication, Storage, Cloud Functions) | FastAPI | MySQL | Docker | AWS ☁️ 
+Node.js | Angular 16+ | TailwindCSS | PrimeNG | FastAPI | MySQL | Firebase | Docker | AWS ☁️ 
 
 💻 Passionate Coder! 
 
