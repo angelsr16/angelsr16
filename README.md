@@ -3,15 +3,11 @@
 ### ***Ingeniero en Sistemas Computacionales | Fullstack Developer***
 
 
-Node.js | Angular 16+ | TailwindCSS | PrimeNG | FastAPI | MySQL | Firebase | Docker | AWS ☁️ 
+Soy Ingeniero en Sistemas Computacionales con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web y móviles. Mi enfoque full stack combina frontend moderno con backends escalables y seguros, integrando tecnologías y servicios en la nube para ofrecer soluciones de alto impacto.
 
-💻 Passionate Coder! 
+He trabajado en proyectos que abarcan desde interfaces interactivas con Angular y TailwindCSS, hasta APIs robustas con Node.js y FastAPI, incorporando bases de datos SQL y NoSQL (MySQL, MongoDB, Redis). También tengo experiencia en el desarrollo de arquitecturas de microservicios con Next.js, Nx y Docker, desplegando en AWS y Firebase para garantizar escalabilidad, seguridad y rendimiento.
 
-### ***Sobre mí***
-
-Soy Ingeniero en Sistemas Computacionales con más de 5 años de experiencia en el diseño, desarrollo e implementación de sistemas de software complejos y aplicaciones web y móviles. Mi perfil full-stack está enfocado principalmente en el desarrollo frontend moderno y la integración con backend robustos y escalables.
-
-He trabajado con tecnologías punteras para construir aplicaciones modulares y mantenibles, aplicando buenas prácticas, patrones de diseño y arquitecturas limpias. Mi experiencia abarca desde la creación de interfaces interactivas y responsivas con Angular y TailwindCSS, hasta la implementación de APIs seguras y eficientes con FastAPI y Node.js, utilizando bases de datos relacionales como MySQL y servicios en la nube como AWS para asegurar disponibilidad y escalabilidad.
+Mi fortaleza es la integración de sistemas complejos con buenas prácticas, patrones de diseño y arquitecturas limpias, logrando aplicaciones modulares, mantenibles y orientadas a la experiencia de usuario. Además, disfruto explorar la creatividad desarrollando videojuegos como hobby, lo que enriquece mi enfoque profesional con una visión innovadora y multidisciplinaria.
 
 Me especializo en integrar todos los componentes de un sistema para lograr una experiencia de usuario óptima, manteniendo el equilibrio entre rendimiento, seguridad y usabilidad. Además, cuento con experiencia en la gestión de infraestructura mediante Docker, facilitando ambientes reproducibles y flujos de trabajo DevOps.
 
