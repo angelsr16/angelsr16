@@ -2,6 +2,21 @@
 
 ### ***Ingeniero en Sistemas Computacionales | Fullstack Developer***
 
+***Sobre mí***
+
+- 🌐 Apasionado por el desarrollo web y la creación de soluciones de impacto.
+
+- ⚡ Disfruto construir sistemas robustos, escalables y eficientes.
+
+- 🤝 Me motiva colaborar en equipos multidisciplinarios y aprender de cada proyecto.
+
+- 🎮 La creatividad que exploro desarrollando videojuegos enriquece mi enfoque profesional.
+
+***Tecnologías***
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,html,css,js,nodejs,python,mongodb,redis,docker,aws,firebase,unity)](https://skillicons.dev)
+
+***Resumen Profesional***
 
 Soy Ingeniero en Sistemas Computacionales con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web y móviles. Mi enfoque full stack combina frontend moderno con backends escalables y seguros, integrando tecnologías y servicios en la nube para ofrecer soluciones de alto impacto.
 
